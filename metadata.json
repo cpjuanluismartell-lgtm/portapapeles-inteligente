@@ -1,0 +1,7 @@
+{
+  "name": "Portapapeles Inteligente",
+  "description": "Una aplicación web para limpiar, transformar y gestionar texto pegado, actuando como un portapapeles avanzado y visible.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
